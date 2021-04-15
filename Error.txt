@@ -1,4 +1,4 @@
 Traceback (most recent call last):
-  File "C:\Users\ricka\Desktop\python slash coding\garfield randomizer.py", line 9, in <module>
+  File "C:\Users\Admin\Desktop\python slash coding\garfield randomizer.py", line 9, in <module>
     web.open('https://www.gocomics.com/garfield/' , y , '/' , m , '/' , d)
 TypeError: open() takes from 1 to 3 positional arguments but 6 were given
